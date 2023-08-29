@@ -1,0 +1,21 @@
+/*Work Sans
+Space Mono
+Share Tech Mono
+*/
+
+.tarjeta {
+    width: 240px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(194, 194, 194, 0.884);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+img {
+    width: 240px;
+    height: 360px;
+}

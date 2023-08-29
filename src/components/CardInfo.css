@@ -1,0 +1,23 @@
+.tarjeta-info {
+    text-align: center;
+    font-family: Work Sans;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.juego {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.genero {
+    margin: 0;
+    font-size: 13px;
+}
+
+.precio {
+    font-size: 20px;
+    font-family: Share Tech Mono;
+    font-weight: bold;
+}
